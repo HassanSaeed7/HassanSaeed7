@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HassanSaeed7
-- 👀 I’m interested in PC gaming, film, weightlifting
+- 👀 I’m interested in film, weightlifting
 - 🌱 I’m currently learning CSS, Javascript.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: Hsaeed1007@gmail.com
