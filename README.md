@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HassanSaeed7
+- 👋 Hi, I’m Hassan Saeed.
 - 👀 I’m interested in film, weightlifting
 - 🌱 I’m currently learning CSS, Javascript.
 - 💞️ I’m looking to collaborate on web development.
