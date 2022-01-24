@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassan Saeed.
-- 👀 I’m interested in film, weightlifting, sports, and gaming
+- 👀 I’m interested in web development, game development, sports. 
 - 🌱 I’m currently learning CSS, Javascript, and React.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: Hsaeed1007@gmail.com
 
 <!---
