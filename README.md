@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan Saeed.
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning (mostly) JavaScript and anything else I find interesting (Pyhton, PHP, C#).
+- 🌱 I’m currently learning (mostly) JavaScript and anything else I find interesting.
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: Hsaeed1007@gmail.com
 
